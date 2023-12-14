@@ -5,10 +5,13 @@ samples.json
 index.html
 
 
+
+
 I have worked independently on this assignment.
 
 - Screenshots of the dashboard
 
+- GitHub pages URL https://vinaya-kusuma.github.io/belly-button-challenge/
 
 
 <img width="952" alt="image" src="https://github.com/vinaya-kusuma/belly-button-challenge/assets/81578500/f52768d2-0742-43f5-8aeb-fd58b5d6fa38">
